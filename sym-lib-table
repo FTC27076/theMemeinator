@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "DFplayer") (type "KiCad") (uri "${KIPRJMOD}/DFPlayer.kicad_sym") (options "") (descr ""))
-)
